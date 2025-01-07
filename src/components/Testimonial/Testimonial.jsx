@@ -8,8 +8,8 @@ import boy3 from "../../assets/boy3.jpg";
 
 const Testimonial = () => {
     return (
-        <div className="grid lg:grid-cols-2 items-center my-28">
-            <div className="max-w-sm md:max-w-2xl mx-h-md">
+        <div className="grid gap-10 lg:grid-cols-2 items-center my-28">
+            <div className="max-w-md md:max-w-2xl mx-h-md">
                 <iframe className="w-full h-[360px]" src="https://www.youtube.com/embed/ZM3rS0TJvzc?si=A5TNjAf3OYg01_pV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div className="">
@@ -28,7 +28,7 @@ const Testimonial = () => {
                     <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
                 </div>
                 {/* -----Carousel----- */}
-                <div className="max-w-2xl">
+                <div className="max-w-sm md:max-w-xl">
                 <Carousel
                     showThumbs={false}
                     infiniteLoop
