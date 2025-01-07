@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "country": "United States",
+    "image": "https://i.ibb.co.com/QfyHRzr/united-26177-640.png",
+    "visa_type": "Tourist Visa",
+    "processing_time": "15-30 days",
+    "fee": "$160",
+    "validity": "10 years",
+    "application_method": "Online/Embassy",
+    "details": "This visa allows visitors to travel to the United States for tourism, family visits, or medical treatment. A personal interview at the embassy may be required."
+  },
+  {
+    "id": 2,
+    "country": "Canada",
+    "image": "https://i.ibb.co.com/4sQmDmK/canada-27003-640.png",
+    "visa_type": "Student Visa",
+    "processing_time": "4-6 weeks",
+    "fee": "CAD 150",
+    "validity": "Duration of Study + 90 days",
+    "application_method": "Online/Embassy",
+    "details": "The student visa is issued to individuals enrolled in Canadian educational institutions. Proof of enrollment and financial stability is required."
+  },
+  {
+    "id": 3,
+    "country": "United Kingdom",
+    "image": "https://i.ibb.co.com/cg7L05v/union-jack-26119-640.png",
+    "visa_type": "Work Visa",
+    "processing_time": "3-8 weeks",
+    "fee": "GBP 610",
+    "validity": "2-5 years",
+    "application_method": "Online",
+    "details": "This visa is for skilled workers who have a job offer in the UK. Applicants must meet specific salary and English language requirements."
+  },
+  {
+    "id": 4,
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/qsv85jD/australia-28586-640.png",
+    "visa_type": "Visitor Visa",
+    "processing_time": "20-45 days",
+    "fee": "AUD 145",
+    "validity": "3, 6, or 12 months",
+    "application_method": "Online",
+    "details": "The visitor visa is for tourists, family visits, or short business trips. Health insurance is recommended during the visit."
+  },
+  {
+    "id": 5,
+    "country": "Malaysia",
+    "image": "https://i.ibb.co.com/4WF2PNn/malaysia-26811-640.png",
+    "visa_type": "E-Visa",
+    "processing_time": "2-4 days",
+    "fee": "$25",
+    "validity": "30 days",
+    "application_method": "Online",
+    "details": "The e-visa is available for tourists and business travelers. It must be applied for online and is valid for entry through specific airports and seaports."
+  },
+  {
+    "id": 6,
+    "country": "China",
+    "image": "https://i.ibb.co.com/YLQPs7N/china-162389-640.png",
+    "visa_type": "Business Visa",
+    "processing_time": "4-10 days",
+    "fee": "$140",
+    "validity": "3 months to 10 years",
+    "application_method": "Embassy",
+    "details": "This visa is issued for business-related activities such as meetings, conferences, and negotiations. An invitation letter from a Chinese organization is required."
+  },
+  {
+    "id": 7,
+    "country": "Japan",
+    "image": "https://i.ibb.co.com/gm3yNvh/japan-162328-640.png",
+    "visa_type": "Tourist Visa",
+    "processing_time": "5-7 days",
+    "fee": "$30",
+    "validity": "90 days",
+    "application_method": "Embassy",
+    "details": "Tourist visas for Japan are for sightseeing, visiting friends or relatives, or attending cultural events. Supporting documents like travel itinerary and bank statements may be required."
+  },
+  {
+    "id": 8,
+    "country": "Germany",
+    "image": "https://i.ibb.co.com/6PHd06h/germany-31017-640.png",
+    "visa_type": "Schengen Visa",
+    "processing_time": "15-30 days",
+    "fee": "€80",
+    "validity": "90 days",
+    "application_method": "Embassy",
+    "details": "The Schengen visa allows travel across 26 European countries. Applicants must provide proof of accommodation, travel insurance, and sufficient funds."
+  },
+  {
+    "id": 9,
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/K74d1P8/south-africa-26912-640.png",
+    "visa_type": "Tourist Visa",
+    "processing_time": "5-10 days",
+    "fee": "$36",
+    "validity": "90 days",
+    "application_method": "Online/Embassy",
+    "details": "This visa is for leisure and tourism purposes. Applicants should ensure their passport has at least two blank pages for the visa."
+  },
+  {
+    "id": 10,
+    "country": "United Arab Emirates",
+    "image": "https://i.ibb.co.com/Rpb64fM/united-arab-emirates-26815-640.png",
+    "visa_type": "Visit Visa",
+    "processing_time": "2-5 days",
+    "fee": "AED 300",
+    "validity": "30 days",
+    "application_method": "Online",
+    "details": "The visit visa is for short-term stays for tourism or family visits. It can be extended for a fee. The application process is often facilitated by sponsors or travel agencies."
+  },
+  {
+    "id": 11,
+    "country": "New Zealand",
+    "country_image": "https://i.ibb.co.com/nj79TDh/flag-28594-640.png",
+    "visa_type": "Working Holiday Visa",
+    "processing_time": "15-35 days",
+    "fee": "NZD 245",
+    "validity": "12 months",
+    "application_method": "Online",
+    "details": "This visa allows young travelers to work and travel in New Zealand. Applicants must meet age and health requirements."
+  },
+  {
+    "id": 12,
+    "country": "Russia",
+    "country_image": "https://i.ibb.co.com/wMK9dwz/russia-26896-640.png",
+    "visa_type": "Tourist Visa",
+    "processing_time": "10-20 days",
+    "fee": "$90",
+    "validity": "30 days",
+    "application_method": "Embassy",
+    "details": "A tourist invitation letter from a Russian tour operator is required for this visa. It is valid for a single or double entry."
+  },
+  {
+    "id": 13,
+    "country": "Brazil",
+    "country_image": "https://example.com/br.jpg",
+    "visa_type": "Visitor Visa",
+    "processing_time": "10-15 days",
+    "fee": "$40",
+    "validity": "90 days",
+    "application_method": "Embassy",
+    "details": "This visa is for tourists, visiting family, or attending cultural events. Proof of return travel and sufficient funds is required."
+  },
+  {
+    "id": 14,
+    "country": "South Korea",
+    "country_image": "https://example.com/kr.jpg",
+    "visa_type": "Student Visa",
+    "processing_time": "3-6 weeks",
+    "fee": "$50",
+    "validity": "Duration of Study",
+    "application_method": "Embassy",
+    "details": "The student visa is for those enrolled in South Korean educational institutions. A Certificate of Admission from the institution is required."
+  },
+  {
+    "id": 15,
+    "country": "Thailand",
+    "country_image": "https://example.com/th.jpg",
+    "visa_type": "Tourist Visa",
+    "processing_time": "2-4 days",
+    "fee": "$40",
+    "validity": "60 days",
+    "application_method": "Online/Embassy",
+    "details": "This visa allows travelers to visit Thailand for leisure purposes. It can be extended for an additional 30 days at a local immigration office."
+  },
+  {
+    "id": 16,
+    "country": "Mexico",
+    "country_image": "https://example.com/mx.jpg",
+    "visa_type": "Temporary Resident Visa",
+    "processing_time": "2-4 weeks",
+    "fee": "$40",
+    "validity": "1 year (renewable)",
+    "application_method": "Embassy",
+    "details": "This visa is for individuals planning to stay in Mexico for more than 180 days. Proof of financial means or an invitation is required."
+  },
+  {
+    "id": 17,
+    "country": "Singapore",
+    "country_image": "https://example.com/sg.jpg",
+    "visa_type": "Work Visa",
+    "processing_time": "7-14 days",
+    "fee": "SGD 105",
+    "validity": "2 years (renewable)",
+    "application_method": "Online",
+    "details": "Singapore's work visa requires a valid job offer from a local employer. Different types of passes are available based on skill level and job role."
+  },
+  {
+    "id": 18,
+    "country": "Malaysia",
+    "country_image": "https://example.com/my.jpg",
+    "visa_type": "Social Visit Visa",
+    "processing_time": "2-7 days",
+    "fee": "$30",
+    "validity": "30 days",
+    "application_method": "Online/Embassy",
+    "details": "This visa is for short-term visits for tourism, business, or social purposes. It can be extended once for a maximum of 30 additional days."
+  },
+  {
+    "id": 19,
+    "country": "Italy",
+    "country_image": "https://example.com/it.jpg",
+    "visa_type": "Schengen Visa",
+    "processing_time": "15-30 days",
+    "fee": "€80",
+    "validity": "90 days",
+    "application_method": "Embassy",
+    "details": "The Italian Schengen visa allows travel within the Schengen area. Applicants must provide proof of accommodation, travel insurance, and financial means."
+  },
+  {
+    "id": 20,
+    "country": "Saudi Arabia",
+    "country_image": "https://example.com/sa.jpg",
+    "visa_type": "Tourist Visa",
+    "processing_time": "1-3 days",
+    "fee": "$117",
+    "validity": "90 days",
+    "application_method": "Online",
+    "details": "The tourist e-visa allows multiple entries for leisure travel. It is part of Saudi Arabia's effort to promote tourism in the country."
+  }
+]
